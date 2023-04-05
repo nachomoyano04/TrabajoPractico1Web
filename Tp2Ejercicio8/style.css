@@ -1,0 +1,7 @@
+ul{
+    list-style-image: url(pizza.png);
+    list-style-type: circle;
+}
+body{
+    background-color: brown;
+}
