@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.parrafo::first-letter{
+    color: brown;
+    font-size: 40px;
+}
