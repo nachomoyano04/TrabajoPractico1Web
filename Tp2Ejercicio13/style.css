@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    background-image: url(Capadocia\,\ turquia.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-attachment: fixed;
+    background-position: 100% 0%;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: 150px 0px 150px 300px;
+    width: 380px;
+    text-align: center;
+    padding-left: 0%;
+    color: white;
+    background-color: orange;
+}
+p{
+    color: wheat;
+    margin: 30px 0px 30px 0px;
+    background-color: black;
+}
