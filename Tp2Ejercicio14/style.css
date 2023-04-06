@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.vinoBlanco a{
+    color: yellow;
+}
+.vinoTinto a{
+    color:red;
+}
+#vinoMerlot a{
+    color:green;
+}
