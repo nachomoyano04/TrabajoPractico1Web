@@ -1,0 +1,49 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cccccc;
+    margin-left: 23%;
+}
+table th{
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(8, 120, 190);
+    border-bottom: 1px solid rgb(0, 149, 255);
+}
+td{
+    padding: 12px 20px 12px 20px; 
+}
+.miCuenta{
+    width: 200px;
+}
+.tienda{
+    padding: 0px 0px 0px 40px;
+    margin: 0px;
+    color:rgb(8, 120, 190);
+    list-style-image: url(shopping-cart-empty-side-view.png);
+    text-align: left;
+}
+.atencion{
+    padding: 0px 0px 0px 40px;
+    margin: 0px;
+    color:rgb(8, 120, 190);
+    list-style-image: url(speech-bubble-with-question-mark.png);
+    text-align: left;
+}
+.cuenta{
+    padding: 0px 0px 0px 40px;
+    margin: 0px;
+    color:rgb(8, 120, 190);
+    list-style-image: url(black-male-user-symbol.png);
+    text-align: left;
+}
+.google{
+    width: 160px; 
+    height: 60px;
+}
+.appleTd{
+    padding: 0px 20px 12px 9px
+}
+.apple{
+    width: 190px;
+    height: 70px;
+}
